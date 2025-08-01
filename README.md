@@ -7,7 +7,9 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
       <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
+  </tr>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
   </tr>
 </table>
 
