@@ -4,16 +4,14 @@
 
 #### 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
-<table border="0">
-  <tr border="0">
-    <td border="0">
+<svg width="100%" height="170">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; gap: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
-    </td>
-    <td border="0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
-    </td>
-  </tr>
-</table>
+    </div>
+  </foreignObject>
+</svg>
 
 #### 📫 How to Reach Me:
-https://www.linkedin.com/in/jusjiang/
+[LinkedIn](https://www.linkedin.com/in/jusjiang/)
