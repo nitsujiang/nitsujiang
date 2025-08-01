@@ -1,6 +1,6 @@
 ## Hi there 😳
 
-###### 🎓 Senior at Stony Brook University, studying Computer Science
+#### 🎓 Senior at Stony Brook University, studying Computer Science
 
 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
