@@ -4,7 +4,7 @@
 
 #### 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
