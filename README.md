@@ -4,6 +4,9 @@
 
 #### 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
+#### 📫 How to Reach Me:
+[LinkedIn](https://www.linkedin.com/in/jusjiang/)
+
 <table border="0">
   <tr border="0">
     <th border="0">
@@ -14,6 +17,3 @@
     </th>
   </tr>
 </table>
-
-#### 📫 How to Reach Me:
-[LinkedIn](https://www.linkedin.com/in/jusjiang/)
