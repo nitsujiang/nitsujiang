@@ -22,14 +22,3 @@
     </th>
   </tr>
 </table>
-
-  <!-- Stats Row 2: Code Stats & TryHackMe -->
-  <div align="center";">
-    <img width="45%"
-         src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical"
-         alt="Code Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact"
-           alt="Top Langs"
-           width="45%"
-        />
-  </div>
