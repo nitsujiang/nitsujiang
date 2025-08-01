@@ -4,12 +4,18 @@
 
 #### 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
-<svg width="100%" height="170">
+<svg width="100%" height="200">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
-    </div>
+    <table xmlns="http://www.w3.org/1999/xhtml" cellpadding="0" cellspacing="20">
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
+        </td>
+      </tr>
+    </table>
   </foreignObject>
 </svg>
 
