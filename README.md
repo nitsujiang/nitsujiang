@@ -1,4 +1,4 @@
-## Hi there 😳 I'm Justin Jiang
+## Hi there 😳
 
 🎓 Senior at Stony Brook University, studying Computer Science
 
