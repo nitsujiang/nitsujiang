@@ -6,10 +6,12 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <th>
       <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
-  </tr>
-  <tr>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
+    </th>
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
+    </th>
   </tr>
 </table>
 
