@@ -6,13 +6,8 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical" />
-    </td>
-    <td width="20"></td> <!-- Spacer cell -->
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsujiang&theme=radical&layout=compact" />
-    </td>
   </tr>
 </table>
 
