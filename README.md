@@ -4,7 +4,7 @@
 
 #### 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitsujiang)](https://github.com/nitsujiang/github-readme-stats?theme=transparent)
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitsujiang)](https://github.com/nitsujiang/github-readme-stats?theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
