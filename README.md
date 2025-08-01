@@ -24,7 +24,7 @@
 </table>
 
   <!-- Stats Row 2: Code Stats & TryHackMe -->
-  <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <div align="center";">
     <img width="45%"
          src="https://github-readme-stats.vercel.app/api?username=nitsujiang&show_icons=true&theme=radical"
          alt="Code Stats" />
