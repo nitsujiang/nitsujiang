@@ -4,6 +4,11 @@
 
 #### 🤔 Currently optimizing my development workflow, learning ML/AI, and trying to build cool things.
 
+#### 🌱 Learning:
+- Rust
+- Go
+- C++
+
 #### 📫 How to Reach Me:
 [LinkedIn](https://www.linkedin.com/in/jusjiang/)
 
